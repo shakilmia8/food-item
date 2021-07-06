@@ -1,4 +1,4 @@
-body{margin: 0px; font-family: Arial, Helvetica, sans-serif;}
+body{margin: 0px; font-family: 'Open Sans', sans-serif;}
 
 .banner{display: flex;padding-left: 5%; padding-right: 5%; margin-bottom: 100px;}
 .banner-half-width{width: 50%;}
@@ -7,12 +7,13 @@ body{margin: 0px; font-family: Arial, Helvetica, sans-serif;}
 .banner-half-width p{line-height: 25px;font-size: 20px; margin-bottom: 40px;margin-left: 0%;}
 .banner-half-width a{text-decoration: none;font-size: 20px; background-image: linear-gradient(orange, tomato); padding: 10px 20px;border-radius: 30px;color: #fff;font-weight: 700;}
 .banner-half-width img{width: 80%;}
-.about-area{background-image: url(images/Frame59.jpg);}
+.about-area{background-image: url(images/Frame58.jpg);background-size: cover;}
 .about{margin-left: 20%;margin-top: 7%;}
 .about p{text-align: justify;}
 .about h2{font-size: 40px;}
 .recipies-area{margin-bottom: 100px;}
 .recipies{text-align: center;}
+.recipies h2 {font-size: 40px;}
 .cover{display: flex;}
 .reci{margin-top: 50px; width: 27%; margin-left: 3%; margin-right: 3%;box-shadow: 10px 10px 40px gray;border-radius: 20px;}
 .reci img{width: 90%; padding: 5%;}
