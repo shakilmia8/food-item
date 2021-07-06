@@ -10,7 +10,7 @@ body{margin: 0px; font-family: 'Open Sans', sans-serif;}
 .about-area{background-image: url(images/Frame58.jpg);background-size: cover;}
 .about{margin-left: 20%;margin-top: 7%;}
 .about p{text-align: justify;}
-.about h2{font-size: 40px;}
+.about h2{font-size: 40px; color: orangered;}
 .recipies-area{margin-bottom: 100px;}
 .recipies{text-align: center;}
 .recipies h2 {font-size: 40px;}
@@ -22,6 +22,6 @@ body{margin: 0px; font-family: 'Open Sans', sans-serif;}
 .events{display: flex;}
 .eve{width: 27%;margin-left: 3%;margin-right: 3%;display: flex;}
 .eve img{width:30%;}
-.eve strong{color: orange;font-size:25px;}
+.eve strong{color: red; font-size:25px;}
 footer{margin-top: 50px; background-color: #000;color: #fff;text-align: center;padding: 10px;}
 footer span{color: orange;}
