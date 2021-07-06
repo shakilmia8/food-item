@@ -17,11 +17,11 @@ body{margin: 0px; font-family: 'Open Sans', sans-serif;}
 .cover{display: flex;}
 .reci{margin-top: 50px; width: 27%; margin-left: 3%; margin-right: 3%;box-shadow: 10px 10px 40px gray;border-radius: 20px;}
 .reci img{width: 90%; padding: 5%;}
-.reci h2,p{margin-left: 5%;margin-right: 5%;}
+.reci h2,p{margin-left: 5%;margin-right: 5%;margin-top: 0%;}
 .upcoming h2{font-size: 40px;}
 .events{display: flex;}
 .eve{width: 27%;margin-left: 3%;margin-right: 3%;display: flex;}
-.eve img{width: 40%;}
+.eve img{width:30%;}
 .eve strong{color: orange;font-size:25px;}
 footer{margin-top: 50px; background-color: #000;color: #fff;text-align: center;padding: 10px;}
 footer span{color: orange;}
